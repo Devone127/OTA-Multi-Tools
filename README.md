@@ -1,6 +1,5 @@
-# OTA Multi Tools
-
 <div align="center">
+  <h1>OTA Multi Tools</h1>
 
 [![Version](https://img.shields.io/badge/version-1.4.2-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/releases)
 [![Build](https://img.shields.io/badge/build-42-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/actions)
@@ -28,11 +27,6 @@
 
 ## 📥 Installation
 
-### Requirements
-- **Android 7.0 (Nougat)** or higher (API 24+)
-- **Storage permission** for downloading and extracting files
-- **~7 MB** free space for installation
-
 ### Download
 1. Go to [Releases](https://github.com/devone127/OTA-Multi-Tools/releases/latest)
 2. Download `app-release.apk`
@@ -49,15 +43,11 @@
 ### Stack
 - **Language:** Kotlin
 - **UI Framework:** Jetpack Compose
-- **Design System:** Material Design 3
-- **Architecture:** MVVM with Coroutines
 - **Network:** OkHttp
 - **Min SDK:** 24 (Android 7.0)
 - **Target SDK:** 34 (Android 14)
 
-## ✨ Features / 🔒 Security & Privacy
-- ✅ **Lightweight** - Only ~7 MB APK size
-- ✅ **Native Performance** - Pure Kotlin/Android implementation
+## 🔒 Security & Privacy
 - ✅ **No Ads** - Completely free, no advertisements
 - ✅ **Digital Signature** - APK is digitally signed and verified
 - ✅ **No Telemetry** - No analytics, tracking, or data collection
@@ -82,15 +72,6 @@ Special thanks to these developers for their excellent work! 🎉
 - **Flashing firmware** can brick your device if done incorrectly
 - Always backup your data before installing firmware updates
 - Only use firmware intended for your specific device model and region
-
----
-
-## 📜 License
-
-This software is provided under a proprietary license.  
-**Free for personal use only. Commercial use prohibited.**
-
-See [LICENSE](LICENSE) file for full terms.
 
 ---
 
