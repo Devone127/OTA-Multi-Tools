@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-1.4.2-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/releases)
 [![Build](https://img.shields.io/badge/build-42-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/actions)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android)](https://developer.android.com/about/dashboards)
-[![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE.md)
+[![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE)
 
 **Native Android application for OTA firmware search**  
 **Realme • OPPO • OnePlus**
