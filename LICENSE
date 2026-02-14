@@ -1,20 +1,52 @@
-OTA Multi Tools - Custom License
-Copyright (c) 2024-2026 Devone127
+OTA Multi Tools - End User License Agreement (EULA)
+Copyright (c) 2024-2026 Devone127. All rights reserved.
 
 TERMS OF USE:
 
-✓ FREE FOR PERSONAL USE
-  - You may use this software for personal, non-commercial purposes
-  - You may modify the source code for personal use only
+This software and its associated files (the "Software") are made available 
+for personal use only. By downloading, installing, or using the Software, 
+you agree to be bound by these terms.
 
-✗ PROHIBITED:
-  - Commercial redistribution or use
-  - Rebranding, reselling, or claiming authorship
-  - Removing author credits or license information
-  - Distribution of modified versions without explicit permission
+PERMITTED USE:
+✓ Personal, non-commercial use of the Software
+✓ Installation on your personal Android devices
+✓ Modification of the Software for personal use only
 
-DIGITAL SIGNATURE:
-This application verifies its digital signature. Modified versions may not 
-function correctly and are not supported.
+PROHIBITED:
+✗ Commercial use, redistribution, or resale of the Software
+✗ Rebranding, renaming, or claiming authorship of the Software
+✗ Removing or modifying copyright notices, author credits, or license information
+✗ Distribution of modified versions without explicit written permission
+✗ Reverse engineering, decompiling, or disassembling the Software for commercial purposes
+✗ Using the Software in any way that violates applicable laws
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+DIGITAL SIGNATURE VERIFICATION:
+The Software includes digital signature verification mechanisms. Modified versions 
+may not function correctly, may be unstable, and are not supported by the author.
+
+DISCLAIMER:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION 
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+USE AT YOUR OWN RISK:
+You understand and agree that you use the Software at your own risk. The author 
+is not responsible for any damage to your device, data loss, or any other issues 
+that may arise from using the Software.
+
+TERMINATION:
+This license is effective until terminated. Your rights under this license will 
+terminate automatically without notice if you fail to comply with any of its terms.
+
+UPDATES:
+The author reserves the right to modify these terms at any time. Continued use 
+of the Software after changes constitutes acceptance of the modified terms.
+
+For questions or permissions beyond this license, contact: devone127.me
+
+---
+
+This is a proprietary license. Source code is not publicly available.
