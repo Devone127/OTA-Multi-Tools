@@ -60,7 +60,7 @@
 
 This project uses code and inspiration from:
 
-- **[OMT (OTA Multi Tools)](https://github.com/stanislawrabel/omt)** by [Stanislav Rabel](https://github.com/stanislawrabel) - Original OTA search implementation and EDL finder logic
+- **[OMT (OTA Multi Tools)](https://github.com/stanislawrabel/omt)** by [Stano36](https://github.com/stanislawrabel) - Original OTA search implementation and EDL finder logic
 - **[Payload Dumper Compose](https://github.com/rcmiku/Payload-Dumper-Compose)** by [rcmiku](https://github.com/rcmiku) - Payload extraction functionality
 
 Special thanks to these developers for their excellent work! 🎉
@@ -82,8 +82,6 @@ Special thanks to these developers for their excellent work! 🎉
 - **Issues:** [Report a Bug](https://github.com/devone127/OTA-Multi-Tools/issues)
 - **Author:** [Devone127](https://devone127.me)
 
-- 🐛 [Reporting bugs](https://github.com/devone127/OTA-Multi-Tools/issues)
-- 💡 [Suggesting features](https://github.com/devone127/OTA-Multi-Tools/issues)
 - 🌍 Helping with translations
 
 ---
