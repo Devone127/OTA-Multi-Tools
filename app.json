@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
-  "build": 46,
-  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/46/app-release.apk",
+  "version": "1.5.1",
+  "build": 51,
+  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/50/app-release.apk",
   "changelog": "- UwU",
   "mandatory": true,
   "page_url": "https://devone127.me/omt/"
