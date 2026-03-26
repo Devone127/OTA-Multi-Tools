@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "build": 60,
-  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/60/app-release.apk",
-  "changelog": "- UwU\n- Исправлены ряд ошибок\n- Обновлены и оптимизированы некоторые функции",
+  "version": "1.6.1",
+  "build": 61,
+  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/61/app-release.apk",
+  "changelog": "- UwU\n- Исправлены некоторые модели",
   "mandatory": false,
   "page_url": "https://devone127.me/omt/"
 }
