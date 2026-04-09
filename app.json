@@ -1,8 +1,8 @@
 {
-  "version": "1.6.2",
-  "build": 62,
-  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/62/omt-1.6.2-62-regular-release.apk",
-  "changelog": "- UwU\n- Добавлен ARB Checker\n- Исправлены ошибки в механизме Downloader\n- Добавлен сбор данных о модели устройства (единоразово при первом запуске) для расширения базы моделей\n- Приложение доступно на 4PDA, RuStore и devone127.me/omt\n- Предложения по улучшению присылайте на help@devone127.me или через форму на devone127.me",
-  "mandatory": true,
+  "version": "1.6.3",
+  "build": 63,
+  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/63/omt-1.6.3-63-regular-release.apk",
+  "changelog": "- Firebase support\n- Notify support",
+  "mandatory": false,
   "page_url": "https://devone127.me/omt/"
 }
