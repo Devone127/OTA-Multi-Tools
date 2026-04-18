@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
-  "build": 63,
-  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/63/omt-1.6.3-63-regular-release.apk",
-  "changelog": "- Firebase support\n- Notify support",
-  "mandatory": false,
+  "version": "1.6.7",
+  "build": 67,
+  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/67/omt-1.6.7-67-regular-release.apk",
+  "changelog": "- Stability update",
+  "mandatory": true,
   "page_url": "https://devone127.me/omt/"
 }
