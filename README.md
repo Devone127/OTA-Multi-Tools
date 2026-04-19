@@ -4,7 +4,7 @@
 
 **Native solution for OnePlus • Realme • OPPO firmware management**
 
-[![Version](https://img.shields.io/badge/version-1.5.1-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/releases)
+[![Version](https://img.shields.io/badge/version-1.6.9-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE)
 
 [Download APK](https://github.com/devone127/OTA-Multi-Tools/releases/latest) • [Website](https://devone127.me/omt/)
@@ -17,17 +17,9 @@
 
 * **🔍 OTA Finder** — Search and locate official OxygenOS, ColorOS, and RealmeUI updates.
 * **📦 Payload Extractor** — Extract `payload.bin` directly on Android to get boot, system, and vendor images.
-* **🛠️ EDL Package Finder** — Find stock firmware for unbricking and system recovery (MsmDownloadTool/EDL).
+* **🛠️ EDL Package Finder** — Find stock firmware for unbricking and system recovery (EDL).
 * **🚀 Smart Downloader** — High-speed firmware downloads with resume capability.
 * **🌍 Global Support** — Supports all regions and models for BBK-branded devices.
-
----
-
-## 🔒 Security & Privacy
-
-* ✅ **No Ads** — No banners or interruptions.
-* ✅ **No Telemetry** — Absolute privacy, no data collection.
-* ✅ **Verified** — Digitally signed APK for your safety.
 
 ---
 
