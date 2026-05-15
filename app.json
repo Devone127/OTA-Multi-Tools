@@ -3,6 +3,6 @@
   "build": 73,
   "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/73/omt-1.7.3-73-regular-release.apk",
   "changelog": "- idk.",
-  "mandatory": true,
+  "mandatory": false,
   "page_url": "https://devone127.me/OTA-Multi-Tools/"
 }
