@@ -1,8 +1,8 @@
 {
-  "version": "1.6.9",
-  "build": 69,
-  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/69/omt-1.6.9-69-regular-release.apk",
-  "changelog": "- New fast extraction engine, reliable downloads, enhanced security, and UI improvements.",
+  "version": "1.7.3",
+  "build": 73,
+  "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/73/omt-1.7.3-73-regular-release.apk",
+  "changelog": "- idk.",
   "mandatory": true,
-  "page_url": "https://devone127.me/omt/"
+  "page_url": "https://devone127.me/OTA-Multi-Tools/"
 }
