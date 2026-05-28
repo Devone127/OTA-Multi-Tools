@@ -6,7 +6,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.7.1-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge)](https://t.me/OnePlus13R_Ace5)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge)](https://t.me/OnePlus13R_Ace5)
 
 [Download APK](https://github.com/Devone127/OTA-Multi-Tools/releases/latest) • [Website](https://devone127.me/omt/)
 
