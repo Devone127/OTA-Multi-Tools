@@ -3,7 +3,7 @@
   "version": "1.7.8 (beta)",
   "build": 78,
   "apk_url": "https://github.com/Devone127/OTA-Multi-Tools/releases/download/78/omt-1.7.8.beta.-78-regular-release.apk",
-  "changelog": "- RU: Нажмите 'About' ниже. Решается судьба проекта: выходим в Google Play или закрываемся из-за ограничений.\n● EN: Click 'About' below. The project's fate is being decided: releasing on Google Play or shutting down due to restrictions.",
+  "changelog": "● RU: Нажмите 'About' ниже. Решается судьба проекта: выходим в Google Play или закрываемся из-за ограничений.\n● EN: Click 'About' below. The project's fate is being decided: releasing on Google Play or shutting down due to restrictions.",
   "mandatory": false,
   "page_url": "tg://resolve?domain=OnePlus13R_Ace5&post=24397&thread=47527"
 }
