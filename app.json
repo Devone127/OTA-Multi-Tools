@@ -3,6 +3,6 @@
   "build": 88,
   "apk_url": "https://devone127.me/OTA-Multi-Tools/apk",
   "changelog": "● RU: Нажмите 'About' ниже.\n● EN: Click 'About' below.",
-  "mandatory": fakse,
+  "mandatory": true,
   "page_url": "tg://resolve?domain=OnePlus13R_Ace5&post=62972&thread=24397"
 }
