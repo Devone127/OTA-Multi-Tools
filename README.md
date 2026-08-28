@@ -4,7 +4,7 @@
 
 **Native solution for OnePlus • Realme • OPPO firmware management**
 
-[![Version](https://img.shields.io/badge/version-1.7.1-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/releases)
+[![Version](https://img.shields.io/badge/version-1.8.8-00f2ff?style=for-the-badge)](https://github.com/Devone127/OTA-Multi-Tools/releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge)](https://t.me/OnePlus13R_Ace5)
 
