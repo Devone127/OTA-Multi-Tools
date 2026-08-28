@@ -9,9 +9,9 @@
     "working_server": 1,
     "working_variant": "RMX5100",
     "current_version_letter": "C",
-    "latest_ota_version": "RMX5100_11.C.53_1530_202606041833",
-    "latest_version_name": "RMX5100_16.0.5.1000(CN01)",
-    "last_check_ts": 1787477539
+    "latest_ota_version": "RMX5100_11.C.55_1550_202608051147",
+    "latest_version_name": "RMX5100_16.0.5.1200(CN01)",
+    "last_check_ts": 1787749480
   },
   "CPH2565_37": {
     "marketing_name": "OPPO / OnePlus CPH2565",
@@ -37,9 +37,9 @@
     "working_server": 0,
     "working_variant": "CPH2573IN",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2573_11.F.56_2560_202607110203",
-    "latest_version_name": "CPH2573_16.0.9.400(EX01)",
-    "last_check_ts": 1784773815
+    "latest_ota_version": "CPH2573_11.F.57_2570_202608111406",
+    "latest_version_name": "CPH2573_16.0.10.501(EX01)",
+    "last_check_ts": 1787771352
   },
   "CPH2577_37": {
     "marketing_name": "OPPO / OnePlus CPH2577",
@@ -151,7 +151,7 @@
     "current_version_letter": "F",
     "latest_ota_version": "CPH2603_11.F.11_2110_202606151500",
     "latest_version_name": "CPH2603_16.0.5.1000(EX01)",
-    "last_check_ts": 1787400152
+    "last_check_ts": 1787727588
   },
   "CPH2607_1B": {
     "marketing_name": "OPPO / OnePlus CPH2607",
@@ -165,7 +165,7 @@
     "current_version_letter": "F",
     "latest_ota_version": "CPH2607_11.F.12_2120_202606122100",
     "latest_version_name": "CPH2607_16.0.5.1000(EX01)",
-    "last_check_ts": 1787326185
+    "last_check_ts": 1787793250
   },
   "CPH2609_44": {
     "marketing_name": "OPPO / OnePlus CPH2609",
@@ -205,9 +205,9 @@
     "working_server": 0,
     "working_variant": "CPH2613IN",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2613_11.F.24_2240_202606081324",
-    "latest_version_name": "CPH2613_16.0.5.1001(EX01)",
-    "last_check_ts": 1787327183
+    "latest_ota_version": "CPH2613_11.F.25_2250_202608112006",
+    "latest_version_name": "CPH2613_16.0.5.1201(EX01)",
+    "last_check_ts": 1787661915
   },
   "CPH2617_1B": {
     "marketing_name": "OPPO / OnePlus CPH2617",
@@ -247,9 +247,9 @@
     "working_server": 0,
     "working_variant": "CPH2621EEA",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2621_11.F.81_2810_202606081737",
-    "latest_version_name": "CPH2621_16.0.5.1000(EX01)",
-    "last_check_ts": 1787326189
+    "latest_ota_version": "CPH2621_11.F.83_2830_202608082003",
+    "latest_version_name": "CPH2621_16.0.5.1200(EX01)",
+    "last_check_ts": 1787640051
   },
   "CPH2625_1B": {
     "marketing_name": "OPPO / OnePlus CPH2625",
@@ -373,9 +373,9 @@
     "working_server": 0,
     "working_variant": "CPH2653",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2653_11.F.92_2920_202607071721",
-    "latest_version_name": "CPH2653_16.0.9.402(EX01)",
-    "last_check_ts": 1787327190
+    "latest_ota_version": "CPH2653_11.F.93_2930_202608071055",
+    "latest_version_name": "CPH2653_16.0.10.501(EX01)",
+    "last_check_ts": 1787568592
   },
   "CPH2659_44": {
     "marketing_name": "OPPO / OnePlus CPH2659",
@@ -429,9 +429,9 @@
     "working_server": 0,
     "working_variant": "CPH2663EEA",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2663_11.F.15_2150_202605071353",
-    "latest_version_name": "CPH2663_16.0.5.702(EX01)",
-    "last_check_ts": 1787327603
+    "latest_ota_version": "CPH2663_11.F.16_2160_202607011204",
+    "latest_version_name": "CPH2663_16.0.5.1001(EX01)",
+    "last_check_ts": 1787573965
   },
   "CPH2663_A7": {
     "marketing_name": "OPPO / OnePlus CPH2663",
@@ -487,7 +487,7 @@
     "current_version_letter": "C",
     "latest_ota_version": "CPH2671_11.C.91_1910_202607050044",
     "latest_version_name": "CPH2671_16.0.9.400(EX01)",
-    "last_check_ts": 1787326200
+    "last_check_ts": 1787866955
   },
   "CPH2681_1B": {
     "marketing_name": "OPPO / OnePlus CPH2681",
@@ -513,9 +513,9 @@
     "working_server": 0,
     "working_variant": "CPH2689EEA",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2689_11.F.71_2710_202604230330",
-    "latest_version_name": "CPH2689_16.0.5.701(EX01)",
-    "last_check_ts": 1787048778
+    "latest_ota_version": "CPH2689_11.F.72_2720_202607032059",
+    "latest_version_name": "CPH2689_16.0.5.1000(EX01)",
+    "last_check_ts": 1787573970
   },
   "CPH2689_1B": {
     "marketing_name": "OPPO / OnePlus CPH2689",
@@ -555,9 +555,9 @@
     "working_server": 0,
     "working_variant": "CPH2691IN",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2691_11.F.55_2550_202607141126",
-    "latest_version_name": "CPH2691_16.0.9.402(EX01)",
-    "last_check_ts": 1787327197
+    "latest_ota_version": "CPH2691_11.F.56_2560_202608122320",
+    "latest_version_name": "CPH2691_16.0.10.500(EX01)",
+    "last_check_ts": 1787815158
   },
   "CPH2693_1B": {
     "marketing_name": "OPPO / OnePlus CPH2693",
@@ -597,9 +597,9 @@
     "working_server": 0,
     "working_variant": "CPH2697EEA",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2697_11.F.63_2630_202604230327",
-    "latest_version_name": "CPH2697_16.0.5.701(EX01)",
-    "last_check_ts": 1786731549
+    "latest_ota_version": "CPH2697_11.F.64_2640_202607072301",
+    "latest_version_name": "CPH2697_16.0.5.1000(EX01)",
+    "last_check_ts": 1787573984
   },
   "CPH2697_1B": {
     "marketing_name": "OPPO / OnePlus CPH2697",
@@ -611,9 +611,9 @@
     "working_server": 0,
     "working_variant": "CPH2697IN",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2697_11.F.64_2640_202607072300",
-    "latest_version_name": "CPH2697_16.0.5.1000(EX01)",
-    "last_check_ts": 1787327200
+    "latest_ota_version": "CPH2697_11.F.65_2650_202608132124",
+    "latest_version_name": "CPH2697_16.0.5.1001(EX01)",
+    "last_check_ts": 1787661950
   },
   "CPH2699_44": {
     "marketing_name": "OPPO / OnePlus CPH2699",
@@ -625,9 +625,9 @@
     "working_server": 0,
     "working_variant": "CPH2699EEA",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2699_11.F.53_2530_202606131108",
-    "latest_version_name": "CPH2699_16.0.5.1001(EX01)",
-    "last_check_ts": 1784627043
+    "latest_ota_version": "CPH2699_11.F.54_2540_202608072047",
+    "latest_version_name": "CPH2699_16.0.5.1200(EX01)",
+    "last_check_ts": 1787771405
   },
   "CPH2707_1B": {
     "marketing_name": "OPPO / OnePlus CPH2707",
@@ -652,10 +652,10 @@
     "nv_id": "01000100",
     "working_server": 0,
     "working_variant": "CPH2709EEA",
-    "current_version_letter": "A",
-    "latest_ota_version": "CPH2709_11.A.32_0320_202511051123",
-    "latest_version_name": "CPH2709_15.0.2.604(EX01)",
-    "last_check_ts": 1783693773
+    "current_version_letter": "C",
+    "latest_ota_version": "CPH2709_11.C.24_1240_202608051259",
+    "latest_version_name": "CPH2709_16.0.5.1201(EX01)",
+    "last_check_ts": 1787618208
   },
   "CPH2709_A7": {
     "marketing_name": "OPPO / OnePlus CPH2709",
@@ -667,9 +667,9 @@
     "working_server": 0,
     "working_variant": "CPH2709",
     "current_version_letter": "C",
-    "latest_ota_version": "CPH2709_11.C.23_1230_202606010806",
-    "latest_version_name": "CPH2709_16.0.5.1002(EX01)",
-    "last_check_ts": 1781547908
+    "latest_ota_version": "CPH2709_11.C.24_1240_202608051259",
+    "latest_version_name": "CPH2709_16.0.5.1201(EX01)",
+    "last_check_ts": 1787596338
   },
   "CPH2717_1B": {
     "marketing_name": "OPPO / OnePlus CPH2717",
@@ -737,9 +737,9 @@
     "working_server": 0,
     "working_variant": "CPH2727EEA",
     "current_version_letter": "F",
-    "latest_ota_version": "CPH2727_11.F.58_2580_202605271505",
-    "latest_version_name": "CPH2727_16.0.5.701(EX01)",
-    "last_check_ts": 1787326495
+    "latest_ota_version": "CPH2727_11.F.60_2600_202608102236",
+    "latest_version_name": "CPH2727_16.0.5.1201(EX01)",
+    "last_check_ts": 1787837080
   },
   "CPH2729_1B": {
     "marketing_name": "OPPO / OnePlus CPH2729",
@@ -793,9 +793,9 @@
     "working_server": 0,
     "working_variant": "CPH2743EEA",
     "current_version_letter": "C",
-    "latest_ota_version": "CPH2743_11.C.48_1480_202605151749",
-    "latest_version_name": "CPH2743_16.0.5.711(EX01)",
-    "last_check_ts": 1787326216
+    "latest_ota_version": "CPH2743_11.C.49_1490_202607032227",
+    "latest_version_name": "CPH2743_16.0.5.1000(EX01)",
+    "last_check_ts": 1787574006
   },
   "CPH2745_1B": {
     "marketing_name": "OnePlus CPH2745",
@@ -821,9 +821,9 @@
     "working_server": 0,
     "working_variant": "CPH2747EEA",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2747_11.A.43_0430_202607012229",
-    "latest_version_name": "CPH2747_16.0.9.400(EX01)",
-    "last_check_ts": 1787059006
+    "latest_ota_version": "CPH2747_11.A.46_0460_202607312129",
+    "latest_version_name": "CPH2747_16.0.10.500(EX01)",
+    "last_check_ts": 1787596352
   },
   "CPH2747_A7": {
     "marketing_name": "OPPO / OnePlus CPH2747",
@@ -891,9 +891,9 @@
     "working_server": 0,
     "working_variant": "CPH2769EEA",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2769_11.A.49_0490_202607102252",
-    "latest_version_name": "CPH2769_16.0.9.401(EX01)",
-    "last_check_ts": 1785407637
+    "latest_ota_version": "CPH2769_11.A.51_0510_202608102211",
+    "latest_version_name": "CPH2769_16.0.10.500(EX01)",
+    "last_check_ts": 1787771429
   },
   "CPH2769_A7": {
     "marketing_name": "OPPO / OnePlus CPH2769",
@@ -905,9 +905,9 @@
     "working_server": 0,
     "working_variant": "CPH2769",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2769_11.A.49_0490_202607102252",
-    "latest_version_name": "CPH2769_16.0.9.401(EX01)",
-    "last_check_ts": 1784925265
+    "latest_ota_version": "CPH2769_11.A.51_0510_202608102211",
+    "latest_version_name": "CPH2769_16.0.10.500(EX01)",
+    "last_check_ts": 1787771433
   },
   "CPH2781_1B": {
     "marketing_name": "OPPO / OnePlus CPH2781",
@@ -930,12 +930,12 @@
     "numeric_region": "44",
     "alpha_region": "EU",
     "nv_id": "01000100",
-    "working_server": 0,
+    "working_server": 3,
     "working_variant": "CPH2783EEA",
-    "current_version_letter": "A",
-    "latest_ota_version": "CPH2783_11.A.33_0330_202601231555",
-    "latest_version_name": "CPH2783_15.0.2.1003(EX01)",
-    "last_check_ts": 1787326221
+    "current_version_letter": "C",
+    "latest_ota_version": "CPH2783_11.C.54_1540_202606032123",
+    "latest_version_name": "CPH2783_16.0.5.1000(EX01)",
+    "last_check_ts": 1787574054
   },
   "CPH2791_44": {
     "marketing_name": "OPPO / OnePlus CPH2791",
@@ -947,9 +947,9 @@
     "working_server": 0,
     "working_variant": "CPH2791EEA",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2791_11.A.81_0810_202601070055",
-    "latest_version_name": "CPH2791_16.0.3.504(EX01)",
-    "last_check_ts": 1787326222
+    "latest_ota_version": "CPH2791_11.A.16_1160_202608040643",
+    "latest_version_name": "CPH2791_16.0.10.500(EX01)",
+    "last_check_ts": 1787574485
   },
   "CPH2791_1B": {
     "marketing_name": "OPPO / OnePlus CPH2791",
@@ -958,7 +958,7 @@
     "numeric_region": "1B",
     "alpha_region": "IN",
     "nv_id": "00011011",
-    "working_server": 0,
+    "working_server": 3,
     "working_variant": "CPH2791IN",
     "current_version_letter": "A",
     "latest_ota_version": "CPH2791_11.A.16_1160_202608040642",
@@ -972,12 +972,12 @@
     "numeric_region": "A4",
     "alpha_region": "GL",
     "nv_id": "10100100",
-    "working_server": 0,
+    "working_server": 3,
     "working_variant": "CPH2791",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2791_11.A.14_1140_202607020540",
-    "latest_version_name": "CPH2791_16.0.9.400(EX01)",
-    "last_check_ts": 1787396765
+    "latest_ota_version": "CPH2791_11.A.16_1160_202608040642",
+    "latest_version_name": "CPH2791_16.0.10.500(EX01)",
+    "last_check_ts": 1787568606
   },
   "CPH2793_1B": {
     "marketing_name": "OPPO / OnePlus CPH2793",
@@ -1017,9 +1017,9 @@
     "working_server": 0,
     "working_variant": "CPH2797EEA",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2797_11.A.12_1120_202607020543",
-    "latest_version_name": "CPH2797_16.0.9.400(EX01)",
-    "last_check_ts": 1787326226
+    "latest_ota_version": "CPH2797_11.A.13_1130_202608040623",
+    "latest_version_name": "CPH2797_16.0.10.500(EX01)",
+    "last_check_ts": 1787574053
   },
   "CPH2797_1B": {
     "marketing_name": "OPPO / OnePlus CPH2797",
@@ -1101,9 +1101,9 @@
     "working_server": 0,
     "working_variant": "CPH2811",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2811_11.A.30_0300_202606091812",
-    "latest_version_name": "CPH2811_16.0.8.300(EX01)",
-    "last_check_ts": 1782517853
+    "latest_ota_version": "CPH2811_11.A.32_0320_202608071406",
+    "latest_version_name": "CPH2811_16.0.10.500(EX01)",
+    "last_check_ts": 1787596375
   },
   "CPH2825_37": {
     "marketing_name": "OPPO / OnePlus CPH2825",
@@ -1143,9 +1143,9 @@
     "working_server": 0,
     "working_variant": "CPH2841EEA",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2841_11.A.61_0610_202607061821",
-    "latest_version_name": "CPH2841_16.0.9.403(EX01)",
-    "last_check_ts": 1787326232
+    "latest_ota_version": "CPH2841_11.A.63_0630_202607311129",
+    "latest_version_name": "CPH2841_16.0.10.500(EX01)",
+    "last_check_ts": 1787771451
   },
   "CPH2841_1B": {
     "marketing_name": "OPPO / OnePlus CPH2841",
@@ -1171,9 +1171,9 @@
     "working_server": 0,
     "working_variant": "CPH2841",
     "current_version_letter": "A",
-    "latest_ota_version": "CPH2841_11.A.61_0610_202607061820",
-    "latest_version_name": "CPH2841_16.0.9.403(EX01)",
-    "last_check_ts": 1784360526
+    "latest_ota_version": "CPH2841_11.A.63_0630_202607311128",
+    "latest_version_name": "CPH2841_16.0.10.500(EX01)",
+    "last_check_ts": 1787771453
   },
   "CPH2873_1B": {
     "marketing_name": "OPPO / OnePlus CPH2873",
@@ -1245,20 +1245,6 @@
     "latest_version_name": "PJD110_16.0.9.400(CN01)",
     "last_check_ts": 1786483371
   },
-  "PJE110_97": {
-    "marketing_name": "OnePlus PJE110",
-    "model": "PJE110",
-    "clean_model": "PJE110",
-    "numeric_region": "97",
-    "alpha_region": "CN",
-    "nv_id": "10010111",
-    "working_server": 1,
-    "working_variant": "PJE110",
-    "current_version_letter": "F",
-    "latest_ota_version": "PJE110_11.F.29_2290_202604091628",
-    "latest_version_name": "PJE110_16.0.5.701(CN01)",
-    "last_check_ts": 1787396792
-  },
   "PJF110_97": {
     "marketing_name": "OnePlus PJF110",
     "model": "PJF110",
@@ -1271,7 +1257,7 @@
     "current_version_letter": "F",
     "latest_ota_version": "PJF110_11.F.14_2140_202604141734",
     "latest_version_name": "PJF110_16.0.5.701(CN01)",
-    "last_check_ts": 1787326252
+    "last_check_ts": 1787705802
   },
   "PJT110_97": {
     "marketing_name": "OPPO / OnePlus PJT110",
@@ -1285,7 +1271,7 @@
     "current_version_letter": "F",
     "latest_ota_version": "PJT110_11.F.79_2790_202606081752",
     "latest_version_name": "PJT110_16.0.5.1000(CN01)",
-    "last_check_ts": 1787326250
+    "last_check_ts": 1787867025
   },
   "PJX110_97": {
     "marketing_name": "OnePlus PJX110",
@@ -1297,9 +1283,9 @@
     "working_server": 1,
     "working_variant": "PJX110",
     "current_version_letter": "F",
-    "latest_ota_version": "PJX110_11.F.16_2160_202604131742",
-    "latest_version_name": "PJX110_16.0.5.701(CN01)",
-    "last_check_ts": 1787326254
+    "latest_ota_version": "PJX110_11.F.17_2170_202607201354",
+    "latest_version_name": "PJX110_16.0.5.1001(CN01)",
+    "last_check_ts": 1787837141
   },
   "PJZ110_97": {
     "marketing_name": "OPPO / OnePlus PJZ110",
@@ -1311,9 +1297,9 @@
     "working_server": 1,
     "working_variant": "PJZ110",
     "current_version_letter": "C",
-    "latest_ota_version": "PJZ110_11.C.92_1920_202607071800",
-    "latest_version_name": "PJZ110_16.0.9.402(CN01)",
-    "last_check_ts": 1787396793
+    "latest_ota_version": "PJZ110_11.C.93_1930_202608031342",
+    "latest_version_name": "PJZ110_16.0.10.501(CN01)",
+    "last_check_ts": 1787568615
   },
   "PKB110_97": {
     "marketing_name": "OPPO / OnePlus PKB110",
@@ -1327,7 +1313,7 @@
     "current_version_letter": "C",
     "latest_ota_version": "PKB110_11.C.97_1970_202607030111",
     "latest_version_name": "PKB110_16.0.9.400(CN01)",
-    "last_check_ts": 1787326535
+    "last_check_ts": 1787867029
   },
   "PKG110_97": {
     "marketing_name": "OPPO / OnePlus PKG110",
@@ -1353,9 +1339,9 @@
     "working_server": 1,
     "working_variant": "PKJ110",
     "current_version_letter": "C",
-    "latest_ota_version": "PKJ110_11.C.72_1720_202607071040",
-    "latest_version_name": "PKJ110_16.0.9.401(CN01)",
-    "last_check_ts": 1787326534
+    "latest_ota_version": "PKJ110_11.C.73_1730_202608011512",
+    "latest_version_name": "PKJ110_16.0.10.501(CN01)",
+    "last_check_ts": 1787640150
   },
   "PKL110_97": {
     "marketing_name": "OPPO / OnePlus PKL110",
@@ -1409,23 +1395,9 @@
     "working_server": 1,
     "working_variant": "PKX110",
     "current_version_letter": "C",
-    "latest_ota_version": "PKX110_11.C.55_1550_202607141012",
-    "latest_version_name": "PKX110_16.0.9.401(CN01)",
-    "last_check_ts": 1787326256
-  },
-  "PLB110_97": {
-    "marketing_name": "OPPO / OnePlus PLB110",
-    "model": "PLB110",
-    "clean_model": "PLB110",
-    "numeric_region": "97",
-    "alpha_region": "CN",
-    "nv_id": "10010111",
-    "working_server": 1,
-    "working_variant": "PLB110",
-    "current_version_letter": "C",
-    "latest_ota_version": "PLB110_11.C.60_1600_202607011814",
-    "latest_version_name": "PLB110_16.0.9.400(CN01)",
-    "last_check_ts": 1787326536
+    "latest_ota_version": "PKX110_11.C.58_1580_202608011802",
+    "latest_version_name": "PKX110_16.0.10.500(CN01)",
+    "last_check_ts": 1787749602
   },
   "PLC110_97": {
     "marketing_name": "OnePlus PLC110",
@@ -1439,7 +1411,7 @@
     "current_version_letter": "C",
     "latest_ota_version": "PLC110_11.C.34_1340_202607081928",
     "latest_version_name": "PLC110_16.0.9.400(CN01)",
-    "last_check_ts": 1787059088
+    "last_check_ts": 1787815242
   },
   "PLE110_97": {
     "marketing_name": "OPPO / OnePlus PLE110",
@@ -1451,9 +1423,9 @@
     "working_server": 1,
     "working_variant": "PLE110",
     "current_version_letter": "C",
-    "latest_ota_version": "PLE110_11.C.55_1550_202605162012",
-    "latest_version_name": "PLE110_16.0.7.200(CN01)",
-    "last_check_ts": 1787326537
+    "latest_ota_version": "PLE110_11.C.57_1570_202607120946",
+    "latest_version_name": "PLE110_16.0.9.400(CN01)",
+    "last_check_ts": 1787837156
   },
   "PLF110_97": {
     "marketing_name": "OnePlus PLF110",
@@ -1467,7 +1439,7 @@
     "current_version_letter": "C",
     "latest_ota_version": "PLF110_11.C.64_1640_202607100028",
     "latest_version_name": "PLF110_16.0.9.402(CN01)",
-    "last_check_ts": 1787059090
+    "last_check_ts": 1787815245
   },
   "PLG110_97": {
     "marketing_name": "OPPO / OnePlus PLG110",
@@ -1507,9 +1479,9 @@
     "working_server": 1,
     "working_variant": "PLL110",
     "current_version_letter": "C",
-    "latest_ota_version": "PLL110_11.C.10_1100_202606111322",
-    "latest_version_name": "PLL110_16.0.5.1001(CN01)",
-    "last_check_ts": 1787326259
+    "latest_ota_version": "PLL110_11.C.11_1110_202607281332",
+    "latest_version_name": "PLL110_16.0.5.1201(CN01)",
+    "last_check_ts": 1787662030
   },
   "PLQ110_97": {
     "marketing_name": "OnePlus PLQ110",
@@ -1537,7 +1509,7 @@
     "current_version_letter": "A",
     "latest_ota_version": "PLR110_11.A.63_0630_202607031936",
     "latest_version_name": "PLR110_16.0.9.400(CN01)",
-    "last_check_ts": 1787326261
+    "last_check_ts": 1787815253
   },
   "PLT130_97": {
     "marketing_name": "OPPO / OnePlus PLT130",
@@ -1591,9 +1563,9 @@
     "working_server": 1,
     "working_variant": "PLZ110",
     "current_version_letter": "A",
-    "latest_ota_version": "PLZ110_11.A.33_0330_202606250758",
-    "latest_version_name": "PLZ110_16.0.9.400(CN01)",
-    "last_check_ts": 1783530151
+    "latest_ota_version": "PLZ110_11.A.37_0370_202607300001",
+    "latest_version_name": "PLZ110_16.0.10.500(CN01)",
+    "last_check_ts": 1787568622
   },
   "PMA110_97": {
     "marketing_name": "OPPO / OnePlus PMA110",
@@ -1605,9 +1577,9 @@
     "working_server": 1,
     "working_variant": "PMA110",
     "current_version_letter": "A",
-    "latest_ota_version": "PMA110_11.A.60_0600_202606282013",
-    "latest_version_name": "PMA110_16.0.9.402(CN01)",
-    "last_check_ts": 1787396803
+    "latest_ota_version": "PMA110_11.A.64_0640_202607300008",
+    "latest_version_name": "PMA110_16.0.10.501(CN01)",
+    "last_check_ts": 1787640168
   },
   "PMA120_97": {
     "marketing_name": "OPPO / OnePlus PMA120",
@@ -1619,9 +1591,9 @@
     "working_server": 1,
     "working_variant": "PMA120",
     "current_version_letter": "A",
-    "latest_ota_version": "PMA120_11.A.60_0600_202606282012",
-    "latest_version_name": "PMA120_16.0.9.402(CN01)",
-    "last_check_ts": 1787326263
+    "latest_ota_version": "PMA120_11.A.64_0640_202607300009",
+    "latest_version_name": "PMA120_16.0.10.501(CN01)",
+    "last_check_ts": 1787640168
   },
   "PMB110_97": {
     "marketing_name": "OPPO / OnePlus PMB110",
@@ -1637,20 +1609,6 @@
     "latest_version_name": "PMB110_16.0.9.400(CN01)",
     "last_check_ts": 1786620529
   },
-  "PMC110_97": {
-    "marketing_name": "OPPO / OnePlus PMC110",
-    "model": "PMC110",
-    "clean_model": "PMC110",
-    "numeric_region": "97",
-    "alpha_region": "CN",
-    "nv_id": "10010111",
-    "working_server": 1,
-    "working_variant": "PMC110",
-    "current_version_letter": "A",
-    "latest_ota_version": "PMC110_11.A.18_0180_202603192144",
-    "latest_version_name": "PMC110_15.0.2.1101(CN01)",
-    "last_check_ts": 1777200202
-  },
   "PME110_97": {
     "marketing_name": "OPPO / OnePlus PME110",
     "model": "PME110",
@@ -1663,7 +1621,7 @@
     "current_version_letter": "A",
     "latest_ota_version": "PME110_11.A.59_0590_202606280528",
     "latest_version_name": "PME110_16.0.9.402(CN01)",
-    "last_check_ts": 1787326265
+    "last_check_ts": 1787867064
   },
   "PMM110_97": {
     "marketing_name": "OPPO / OnePlus PMM110",
@@ -1675,9 +1633,9 @@
     "working_server": 1,
     "working_variant": "PMM110",
     "current_version_letter": "A",
-    "latest_ota_version": "PMM110_11.A.48_0480_202607030155",
-    "latest_version_name": "PMM110_16.0.9.400(CN01)",
-    "last_check_ts": 1786549498
+    "latest_ota_version": "PMM110_11.A.50_0500_202608012236",
+    "latest_version_name": "PMM110_16.0.10.500(CN01)",
+    "last_check_ts": 1787574195
   },
   "PYS110_97": {
     "marketing_name": "OPPO / OnePlus PYS110",
@@ -1692,6 +1650,20 @@
     "latest_ota_version": "PYS110_11.A.35_0350_202607170014",
     "latest_version_name": "PYS110_16.0.5.906(CN01)",
     "last_check_ts": 1787326268
+  },
+  "RMX5000_37": {
+    "marketing_name": "realme RMX5000",
+    "model": "RMX5000",
+    "clean_model": "RMX5000",
+    "numeric_region": "37",
+    "alpha_region": "RU",
+    "nv_id": "00110111",
+    "working_server": 0,
+    "working_variant": "RMX5000RU",
+    "current_version_letter": "F",
+    "latest_ota_version": "RMX5000_11.F.33_2330_202606112208",
+    "latest_version_name": "RMX5000_16.0.5.1000(EX01)",
+    "last_check_ts": 1782410063
   },
   "RMX5062_97": {
     "marketing_name": "realme RMX5062",
@@ -1857,9 +1829,9 @@
     "working_server": 1,
     "working_variant": "RMX5080",
     "current_version_letter": "C",
-    "latest_ota_version": "RMX5080_11.C.33_1330_202511261702",
-    "latest_version_name": "RMX5080_16.0.0.212(CN01)",
-    "last_check_ts": 1787326643
+    "latest_ota_version": "RMX5080_11.C.55_1550_202607091324",
+    "latest_version_name": "RMX5080_16.0.9.400(CN01)",
+    "last_check_ts": 1787568629
   },
   "RMX5085_37": {
     "marketing_name": "realme RMX5085",
@@ -1873,7 +1845,7 @@
     "current_version_letter": "F",
     "latest_ota_version": "RMX5085_11.F.52_2520_202605252034",
     "latest_version_name": "RMX5085_16.0.7.202(EX01)",
-    "last_check_ts": 1787477586
+    "last_check_ts": 1787888972
   },
   "RMX5085_44": {
     "marketing_name": "realme RMX5085",
@@ -1941,9 +1913,9 @@
     "working_server": 0,
     "working_variant": "RMX5101IN",
     "current_version_letter": "C",
-    "latest_ota_version": "RMX5101_11.C.54_1540_202607241641",
-    "latest_version_name": "RMX5101_16.0.5.1010(EX01)",
-    "last_check_ts": 1786162886
+    "latest_ota_version": "RMX5101_11.C.56_1560_202608151948",
+    "latest_version_name": "RMX5101_16.0.5.1210(EX01)",
+    "last_check_ts": 1787568630
   },
   "RMX5105_97": {
     "marketing_name": "realme RMX5105",
@@ -1983,9 +1955,9 @@
     "working_server": 0,
     "working_variant": "RMX5106IN",
     "current_version_letter": "C",
-    "latest_ota_version": "RMX5106_11.C.29_1290_202606061849",
-    "latest_version_name": "RMX5106_16.0.5.1000(EX01)",
-    "last_check_ts": 1781831522
+    "latest_ota_version": "RMX5106_11.C.30_1300_202608111803",
+    "latest_version_name": "RMX5106_16.0.5.1200(EX01)",
+    "last_check_ts": 1787662075
   },
   "RMX5107_37": {
     "marketing_name": "realme RMX5107",
@@ -2025,9 +1997,9 @@
     "working_server": 0,
     "working_variant": "RMX5108IN",
     "current_version_letter": "C",
-    "latest_ota_version": "RMX5108_11.C.20_1200_202607012344",
-    "latest_version_name": "RMX5108_16.0.5.1001(EX01)",
-    "last_check_ts": 1787326650
+    "latest_ota_version": "RMX5108_11.C.23_1230_202608221618",
+    "latest_version_name": "RMX5108_16.0.5.1201(EX01)",
+    "last_check_ts": 1787683970
   },
   "RMX5110_1B": {
     "marketing_name": "realme RMX5110",
@@ -2039,23 +2011,9 @@
     "working_server": 0,
     "working_variant": "RMX5110IN",
     "current_version_letter": "C",
-    "latest_ota_version": "RMX5110_11.C.29_1290_202606061851",
-    "latest_version_name": "RMX5110_16.0.5.1000(EX01)",
-    "last_check_ts": 1784653524
-  },
-  "RMX5111_37": {
-    "marketing_name": "realme RMX5111",
-    "model": "RMX5111",
-    "clean_model": "RMX5111",
-    "numeric_region": "37",
-    "alpha_region": "RU",
-    "nv_id": "00110111",
-    "working_server": 0,
-    "working_variant": "RMX5111",
-    "current_version_letter": "F",
-    "latest_ota_version": "RMX511125669_11.F.24_2240_202606301713",
-    "latest_version_name": "RMX511125669_16.0.5.1000(EX01)",
-    "last_check_ts": 1784798302
+    "latest_ota_version": "RMX5110_11.C.30_1300_202608111758",
+    "latest_version_name": "RMX5110_16.0.5.1200(EX01)",
+    "last_check_ts": 1787662079
   },
   "RMX5111_1B": {
     "marketing_name": "realme RMX5111",
@@ -2165,9 +2123,9 @@
     "working_server": 0,
     "working_variant": "RMX5131EEA",
     "current_version_letter": "A",
-    "latest_ota_version": "RMX5131_11.A.73_0730_202606011735",
-    "latest_version_name": "RMX5131_16.0.5.713(EX01)",
-    "last_check_ts": 1787326659
+    "latest_ota_version": "RMX5131_11.A.77_0770_202608121333",
+    "latest_version_name": "RMX5131_16.0.5.1201(EX01)",
+    "last_check_ts": 1787568637
   },
   "RMX5131_1B": {
     "marketing_name": "realme RMX5131",
@@ -2249,9 +2207,9 @@
     "working_server": 0,
     "working_variant": "RMX5210RU",
     "current_version_letter": "A",
-    "latest_ota_version": "RMX5210_11.A.68_0680_202605122348",
-    "latest_version_name": "RMX5210_16.0.7.205(EX01)",
-    "last_check_ts": 1787326663
+    "latest_ota_version": "RMX5210_11.A.71_0710_202607242026",
+    "latest_version_name": "RMX5210_16.0.9.402(EX01)",
+    "last_check_ts": 1787837251
   },
   "RMX5210_44": {
     "marketing_name": "realme RMX5210",
@@ -2263,9 +2221,9 @@
     "working_server": 0,
     "working_variant": "RMX5210EEA",
     "current_version_letter": "A",
-    "latest_ota_version": "RMX5210_11.A.70_0700_202607072249",
-    "latest_version_name": "RMX5210_16.0.9.401(EX01)",
-    "last_check_ts": 1787061933
+    "latest_ota_version": "RMX5210_11.A.71_0710_202607242024",
+    "latest_version_name": "RMX5210_16.0.9.402(EX01)",
+    "last_check_ts": 1787837256
   },
   "RMX5210_1B": {
     "marketing_name": "realme RMX5210",
