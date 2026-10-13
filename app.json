@@ -1,6 +1,6 @@
 {
   "version": "2.0.7",
-  "build": 97,
+  "build": 7,
   "apk_url": "https://devone127.me/OTA-Multi-Tools/apk",
   "changelog": "- fix beta finder\n- added daniel server api\n- added os updater api",
   "mandatory": true,
