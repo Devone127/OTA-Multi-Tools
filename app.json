@@ -2,7 +2,7 @@
   "version": "2.0.7",
   "build": 97,
   "apk_url": "https://devone127.me/OTA-Multi-Tools/apk",
-  "changelog": "- fix beta finder/n- added daniel server api/n- added os updater api",
+  "changelog": "- fix beta finder\n- added daniel server api\n- added os updater api",
   "mandatory": true,
   "page_url": "tg://resolve?domain=OnePlus13R_Ace5&post=100460&thread=24397"
 }
