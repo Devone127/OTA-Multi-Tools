@@ -1,8 +1,10 @@
 {
-  "version": "2.0.7",
-  "build": 7,
+  "version": "2.1.0",
+  "build": 100,
   "apk_url": "https://devone127.me/OTA-Multi-Tools/apk",
-  "changelog": "- fix beta finder\n- added daniel server api\n- added os updater api",
-  "mandatory": true,
-  "page_url": "tg://resolve?domain=OnePlus13R_Ace5&post=100460&thread=24397"
+  "message": "- added Libraries & Acknowledgements\n- added Daniel server API\n- added OS Updater API\n- added Background search every 6h\n- added Add model to database\n- device catalog - 127.codes/devices.json",
+  "status": 0,
+  "page_url": "https://devone127.me/OTA-Multi-Tools/",
+  "telegram": "tg://resolve?domain=OTAMultiTools",
+  "devicesVersion": 2
 }
